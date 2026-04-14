@@ -2,23 +2,39 @@
 
 # João Miguel Prado Gossani
 
-### Estudante Dev apaixonado por Startups e suas funções 🚀
-
-*Construindo coisas, aprendendo rápido, sempre de olho na próxima grande ideia.*
+### Dev & Founder em construção 🚀
+*Estudante de full stack que não espera se formar para começar a construir.*
 
 </div>
 
 ---
 
-## 👋 Sobre mim
+## 👋 Quem sou
 
-Sou estudante de desenvolvimento full stack com interesse em startups, produtos digitais e tecnologia que resolve problemas reais. Estou em busca de oportunidades para crescer, contribuir e aprender com times incríveis.
+Sou estudante de desenvolvimento full stack com mentalidade de founder. Enquanto aprendo, já estou construindo — a TwinsPark nasceu da vontade de resolver um problema real antes de ter o diploma na mão.
 
-- 🌱 Atualmente aprendendo e praticando **JavaScript / TypeScript**
-- 💡 Interesse em **startups, produtos e desenvolvimento web**
-- 🔭 Trabalhando em projetos pessoais para solidificar o aprendizado
-- 💬 Me chama para conversar sobre tecnologia, startups ou ideias
-- 📫 **Aberto a oportunidades!**
+Acredito que tecnologia é meio, não fim. O que me move é identificar problemas, validar ideias rápido e construir produtos que as pessoas realmente usam.
+
+- 🏗️ Fundador da **TwinsPark** — startup em fase de validação
+- 🌱 Aprendendo e aplicando **JavaScript / TypeScript** em projetos reais
+- 💡 Fascinado por **produto, distribuição e o 0→1 de startups**
+- 🔭 Construindo enquanto aprendo — sem esperar o momento perfeito
+- 💬 Me chama pra conversar sobre startups, produto ou código
+- 📫 **Aberto a oportunidades, mentorias e conexões**
+
+---
+
+## 🏢 TwinsPark — Minha Startup
+
+> *Breve descrição do problema que a TwinsPark resolve — adicione aqui quando quiser!*
+
+A TwinsPark está em fase de validação. Estou no processo de entender profundamente o problema, conversar com potenciais usuários e construir o MVP.
+
+**Status atual:** 🟡 Validação
+
+<!-- Quando tiver mais para mostrar:
+🔗 [Site](https://twinspark.com.br) · 📄 [Deck](link) · 🧪 [MVP](link)
+-->
 
 ---
 
@@ -35,12 +51,12 @@ Sou estudante de desenvolvimento full stack com interesse em startups, produtos 
 
 ## 📌 Projetos em Destaque
 
-> *Em breve! Estou construindo projetos para adicionar aqui.* 🛠️
+> Projetos chegando em breve — construindo agora 🛠️
 
-<!-- Quando tiver projetos, use o formato abaixo:
-### [Nome do Projeto](https://github.com/JoaoMiguel-oss/nome-do-repo)
-Descrição curta do que o projeto faz e qual problema resolve.
-`tecnologia` `tecnologia` `tecnologia`
+<!-- Formato para quando adicionar:
+### [Nome do Projeto](https://github.com/JoaoMiguel-oss/repo)
+O que faz e qual problema resolve.
+`typescript` `react` `node`
 -->
 
 ---
@@ -50,7 +66,6 @@ Descrição curta do que o projeto faz e qual problema resolve.
 <div align="center">
 
 ![João Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoMiguel-oss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMiguel-oss&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
@@ -60,8 +75,6 @@ Descrição curta do que o projeto faz e qual problema resolve.
 ## 🌐 Contato & Redes
 
 <div align="center">
-
-<!-- Substitua os links com os seus! -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_USUARIO)
@@ -73,8 +86,8 @@ Descrição curta do que o projeto faz e qual problema resolve.
 
 <div align="center">
 
-*"Cada linha de código é um passo a mais na direção certa."*
+*"Não espere ter tudo pronto para começar. Comece para ter tudo pronto."*
 
-⭐ Se curtiu algum projeto, não esquece de deixar uma estrela!
+⭐ Se curtiu algo por aqui, uma estrela ajuda muito!
 
 </div>
