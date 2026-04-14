@@ -26,7 +26,7 @@ Acredito que tecnologia é meio, não fim. O que me move é identificar problema
 
 ## 🏢 TwinsPark — Minha Startup
 
-> *Breve descrição do problema que a TwinsPark resolve — adicione aqui quando quiser!*
+
 
 A TwinsPark está em fase de validação. Estou no processo de entender profundamente o problema, conversar com potenciais usuários e construir o MVP.
 
